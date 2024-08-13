@@ -68,7 +68,7 @@ const Features = () => {
               </video>
             </div>
 
-            <div className="flex flex-col w-full relative">
+            <div className="flex flex-col w-full relative h-screen">
               <div className="feature-video-container">
                 <div className="overflow-hidden flex-1 h-[50vh]">
                   <img
@@ -85,7 +85,7 @@ const Features = () => {
                   />
                 </div>
               </div>
-              <div className="feature-text-container">
+              <div className="feature-text-container ">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
                     iPhone 15 Pro is{" "}
